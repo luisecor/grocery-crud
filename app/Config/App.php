@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/project-root/public/';
+    public $baseURL = 'https://baseunica.sectc.app/';
 
     /**
      * --------------------------------------------------------------------------
